@@ -11,6 +11,6 @@ with your main project. So, this can be used as an alternative to that.
 
 # Screenshot
 
-<img src="images/ex.PNG" height="700" width="700">
+<img src="images/ex.PNG" height="600" width="700">
 
-                                                                                                                                              -VAIBHAV MISHRA
+                                                         -VAIBHAV MISHRA
