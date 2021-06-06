@@ -10,4 +10,4 @@ with your main project. So, this can be used as an alternative to that.
 
 
 #Screenshot
-<img src="images/ex.png">
+<img src="images\ex.png">
